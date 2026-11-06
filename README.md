@@ -16,7 +16,4 @@ pip install -r requirements.txt
 pytest -v
 ```
 
-## Anggota Kelompok
-| Nama | NIM |
-|---|---|
-| (isi) | (isi) |
+
